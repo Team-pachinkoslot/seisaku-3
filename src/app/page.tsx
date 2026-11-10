@@ -27,7 +27,8 @@ export default function Home() {
           color: '#666666', 
           marginBottom: '2rem' 
         }}>
-          シンプルなNext.jsサイトです。必要なコンテンツをここに追加していきます。
+          シンプルなNext.jsサイトです。必要なコンテンツをここに追加していきます。<br>
+        お砂糖とお醤油
         </p>
 
         <div style={{
